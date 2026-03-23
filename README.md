@@ -47,10 +47,10 @@ India
 
 ![Eshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaanbobdey&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshaanbobdey&layout=compact)
-
 ---
 
 ## Connect
 
 LinkedIn: [Eshaan Bobdey](https://www.linkedin.com/in/eshaan-bobdey-496990283)
+
+Contact: xyzeshaan@gmail.com
