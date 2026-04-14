@@ -45,7 +45,7 @@ India
 
 ## GitHub Stats
 
-![Eshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaanbobdey&show_icons=true&theme=tokyonight&rank_icon=github)
+![Eshaan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eshaanbobdey&show_icons=true&theme=tokyonight)
 
 ---
 
