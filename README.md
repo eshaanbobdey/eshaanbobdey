@@ -23,7 +23,7 @@ India
 - Built using Python, Scikit-learn/TensorFlow  
 - Focused on secure healthcare applications  
 
-🔗 [View Project](https://github.com/eshaanbobdey/federated-sepsis-detection)
+🔗 [View Project](https://github.com/eshaanbobdey/federated_sepsis_website)
 
 ---
 
