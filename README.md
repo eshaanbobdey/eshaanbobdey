@@ -6,10 +6,24 @@ India
 ---
 
 ## About Me
-- Third-year Engineering student with a strong interest in problem solving and development  
-- Interested in Web Development and Machine Learning  
+- Third-year IT student with a strong academic record (CGPA: 8.42)
+- Dean’s List (3rd, 4th, 5th semester)
+- Focused on Web Development and Machine Learning  
 - Currently learning Java and improving backend development skills  
-- Focused on building practical, real-world projects  
+- Built real-world projects in healthcare and web systems
+- Currently exploring Federated Learning and scalable ML systems
+
+---
+
+## Featured Project
+
+### Federated Sepsis Detection System
+- Privacy-preserving ML model using federated learning  
+- Detects early signs of sepsis using patient data  
+- Built using Python, Scikit-learn/TensorFlow  
+- Focused on secure healthcare applications  
+
+🔗 [View Project](https://github.com/eshaanbobdey/federated-sepsis-detection)
 
 ---
 
