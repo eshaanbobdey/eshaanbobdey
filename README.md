@@ -1,12 +1,12 @@
 # Hi, I'm Eshaan Bobdey
 
-Engineering Student (3rd Year) | Developer | Machine Learning Enthusiast  
+Engineering Student (4th Year) | Developer | Machine Learning Enthusiast  
 India  
 
 ---
 
 ## About Me
-- Third-year IT student with a strong academic record (CGPA: 8.42)
+- Fourth-year IT student with a strong academic record (CGPA: 8.48)
 - Dean’s List (3rd, 4th, 5th semester)
 - Focused on Web Development and Machine Learning  
 - Currently learning Java and improving backend development skills  
