@@ -86,15 +86,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaanbobdey&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaanbobdey&layout=compact&theme=tokyonight" height="165" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshaanbobdey&theme=tokyonight" />
+  <img src="./profile/streak.svg" />
 </p>
 
-> If these cards ever show a "maximum retries exceeded" or "please add PAT_1" error again, it means the shared public instance is rate-limited — see the note below.
+> These cards are static SVGs generated once a day by a GitHub Action in this repo (`.github/workflows/update-readme-cards.yml`), not live calls to a shared public API — so they won't break from someone else's rate limit.
 
 ---
 
