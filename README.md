@@ -29,14 +29,13 @@
     <td>
       <h3>Federated Sepsis Detection System</h3>
       <p>
-        A privacy-preserving machine learning system that detects early signs of sepsis
-        using federated learning — enabling model training across healthcare data
-        without ever centralizing sensitive patient records.
+        A privacy-preserving federated learning platform for early sepsis prediction
+        across hospitals — hospitals share only model weights, never raw patient data.
       </p>
       <ul>
-        <li>Privacy-first architecture using federated learning</li>
-        <li>Built with Python, Scikit-learn, and TensorFlow</li>
-        <li>Designed for secure, real-world healthcare deployment</li>
+        <li>FastAPI backend with Google OAuth + JWT auth and role-based access</li>
+        <li>NumPy-based FedAvg-style weight aggregation across participants</li>
+        <li>Async PostgreSQL data layer, deployed on Render + Netlify</li>
       </ul>
       <a href="https://github.com/eshaanbobdey/federated_sepsis_website">🔗 View Project</a>
     </td>
@@ -87,13 +86,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eshaanbobdey&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshaanbobdey&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaanbobdey&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaanbobdey&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eshaanbobdey&theme=tokyonight" />
 </p>
+
+> If these cards ever show a "maximum retries exceeded" or "please add PAT_1" error again, it means the shared public instance is rate-limited — see the note below.
 
 ---
 
